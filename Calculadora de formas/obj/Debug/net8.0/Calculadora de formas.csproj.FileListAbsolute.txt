@@ -1,0 +1,18 @@
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Calculadora de formas.exe
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Calculadora de formas.deps.json
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Calculadora de formas.runtimeconfig.json
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Calculadora de formas.dll
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Calculadora de formas.pdb
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Clases.dll
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\bin\Debug\net8.0\Clases.pdb
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.csproj.AssemblyReference.cache
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.AssemblyInfoInputs.cache
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.AssemblyInfo.cs
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculad.70984AB1.Up2Date
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.dll
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\refint\Calculadora de formas.dll
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.pdb
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\Calculadora de formas.genruntimeconfig.cache
+C:\Users\Gonza\source\repos\Primera clase\Ejercicios\Calculadora de formas\obj\Debug\net8.0\ref\Calculadora de formas.dll
